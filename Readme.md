@@ -17,4 +17,4 @@ A Streamlit app that uses **LangChain** and **Groq LLM** (Llama 3.1) to summariz
 
 ```bash
 git clone https://github.com/AdarshaJoshi/Text-Summarization
-cd langchain-summarizer
+cd Text-Summarization
